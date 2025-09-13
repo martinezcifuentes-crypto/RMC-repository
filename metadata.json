@@ -1,0 +1,5 @@
+{
+  "name": "Luciana aprende las tablas de multiplicar",
+  "description": "A two-player memory game to practice multiplication tables from 2 to 9. Players choose a board size and take turns flipping cards to find matching pairs of multiplications and their results. The game features a calming nature and mathematics theme.",
+  "requestFramePermissions": []
+}
